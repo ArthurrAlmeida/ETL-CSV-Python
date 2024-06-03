@@ -1,5 +1,10 @@
 # ETL em Python usando Jupyter Notebook completo.
 
+<h3> Sobre o projeto </h3>
+
+<p> O projeto em questão se trata de um banco de dados governamental aberto, que mostra todos os contratos que a Agencia Espacial Brasileira tem, quais empresas e as datas de contrato, junto com valores. </p>
+
+#
 <h3> Arquivos presentes </h3>
 
 <p> 1. O arquivo ETL CSV.ipynb está presente o código enquanto os outros são as bases de dados. </p>
