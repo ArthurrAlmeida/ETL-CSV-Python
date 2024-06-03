@@ -14,4 +14,4 @@
 
 <p> 4. Selecione o arquivo </p>
 <p> 5. Clique duas vezes para abrir ele dentro do seu Notebook </p>
-
+<p> 6. Você também pode visualiza-lo clicando no arquivo presente do GitHub </p>
